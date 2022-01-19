@@ -1,0 +1,18 @@
+{
+    "name": "rzy",
+    "description": "Deploy mytestapp on Heroku.",
+    "keywords": ["rzy"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "d69fbdd3-5be2-423e-af8e-0917ee05da06"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/kanbujianwoa/zyvt1",
+    "repository": "https://github.com/kanbujianwoa/zyvt1",
+    "stack": "container"
+}
